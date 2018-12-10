@@ -7,8 +7,8 @@
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/Vasco-Pixel/mz
-// @updateURL    https://github.com/RanyaLined/r/blob/master/minimap.user.js
-// @downloadURL  https://github.com/RanyaLined/r/blob/master/minimap.user.js
+// @updateURL    https://github.com/RanyaLined/r/raw/master/minimap.user.js
+// @downloadURL  https://github.com/RanyaLined/r/raw/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Vasco-Pixel/mz/master/';
+window.baseTepmlateUrl = 'https://github.com/RanyaLined/r/raw/master/minimap.user.js';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
