@@ -1,11 +1,11 @@
 {
-  "Projecao_Zone3": {
-    "name": "Projecao_Zone3.png",
-    "x": 743,
-    "y": 2933,
-    "width": 1268,
-    "height": 724
-   }, 
+   "test": {
+    "name": "test.png",
+    "x": 2275,
+    "y": 1095,
+    "width": 1024,
+    "height": 723
+   },
  "ObsidianArts": {
     "name": "ObsidianArts.png",
     "x": 1820,
