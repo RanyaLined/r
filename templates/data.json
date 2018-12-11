@@ -5,5 +5,12 @@
     "y": 1095,
     "width": 1024,
     "height": 723
+   },
+   "test": {
+    "name": "test.png",
+    "x": 0,
+    "y": 0,
+    "width": 250,
+    "height": 250
    }
 }
