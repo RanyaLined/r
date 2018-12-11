@@ -6,11 +6,11 @@
     "width": 1024,
     "height": 723
    },
-   "test": {
-    "name": "test.png",
+   "test2": {
+    "name": "test2.png",
     "x": 0,
     "y": 0,
-    "width": 250,
-    "height": 250
+    "width": 88,
+    "height": 43
    }
 }
