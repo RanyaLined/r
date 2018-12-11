@@ -1,4 +1,4 @@
-# Minimapa-VascoPixel-Pixel ZONE
+# Minimapa-VascoPixel-Pixel ZONE||| THIS IS NOT MY WORK! ALL COPYRIGHTS AND OTHER THINGS BELONG TO VascoPixel, THANKS TO HIM
 #### Discord http://discord.me/vascopixel 
 #### Creditos:
 #### ConsoleBey#9737
