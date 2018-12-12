@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://github.com/RanyaLined/r/raw/master/minimap.user.js';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/RanyaLined/r/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
