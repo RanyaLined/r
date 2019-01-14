@@ -6,18 +6,11 @@
     "width": 1024,
     "height": 723
    },
-   "vkmlp": {
-    "name": "vkmlp.png",
-    "x": 3859,
-    "y": 943,
-    "width": 237,
-    "height": 287
-   },
-   "luna": {
-    "name": "luna.png",
-    "x": 3748,
-    "y": 885,
-    "width": 110,
-    "height": 132
+   "pz": {
+    "name": "pz.png",
+    "x": 3268,
+    "y": 806,
+    "width": 826,
+    "height": 431
    }
 }
