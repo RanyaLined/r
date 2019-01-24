@@ -1,16 +1,9 @@
 {
-   "foe2": {
-    "name": "foe2.png",
-    "x": 2275,
-    "y": 1095,
-    "width": 1024,
-    "height": 723
-   },
-   "pz": {
-    "name": "pz.png",
-    "x": 3268,
-    "y": 806,
-    "width": 826,
-    "height": 431
+   "shablon": {
+    "name": "shablon.png",
+    "x": 2274,
+    "y": 803,
+    "width": 2111,
+    "height": 1052
    }
 }
